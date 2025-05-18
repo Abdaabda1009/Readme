@@ -1,6 +1,6 @@
 # Project Portfolio 🚀
 
-![Banner Image](/Nexalexica.mp4)
+![Banner Image](Nexalexica.mp4)
 
 A dynamic showcase of my development projects and professional work. This portfolio evolves as I continue to improve existing projects and take on new challenges.
 
